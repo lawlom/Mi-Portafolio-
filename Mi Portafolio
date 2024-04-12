@@ -1,0 +1,7 @@
+echo "# Mi-Portafolio-" >> README.md 
+git init 
+git add README.md 
+git commit -m "primer compromiso" 
+git rama -M principal 
+git remoto agregar origen https://github.com/lawlom/Mi-Portafolio -.git
+ git push -u origen principal
